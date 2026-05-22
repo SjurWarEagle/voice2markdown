@@ -1,0 +1,1 @@
+Format the following transcription into clean, well-structured markdown. Use proper headings, bullet points where appropriate, and fix any transcription errors.Keep the language of the original text.

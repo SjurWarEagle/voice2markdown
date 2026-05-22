@@ -4,3 +4,5 @@ data/*m4a
 data/*wav
 data/*md
 data/*txt
+cache/*
+whisper_cache/*
